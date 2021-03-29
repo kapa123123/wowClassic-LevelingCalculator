@@ -20,9 +20,11 @@ void core::input()
 	mobCount = neededXP / xpPerKill;
 
 	std::cout << mobCount;
+	
+	system("CLS");
 };
 
 void core::calculation()
 {
-
+	std::cout << currentXP;
 };
