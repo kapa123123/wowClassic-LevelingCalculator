@@ -15,6 +15,7 @@ void input()
 	int highestXp; //XP Needed to Level
 	int xpPerKill; //XP Gained farming individual Mob
 	int mobCount; //How many mobs need to be killed to ding
+	
 
 	std::cout << "Please Input your current XP " << "\n" << ">>";
 	std::cin >> currXp;
