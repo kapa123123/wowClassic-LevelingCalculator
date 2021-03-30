@@ -1,7 +1,7 @@
 #include "core.h"
 #include <iostream>
 
-void core::input()
+void core::xpInput()
 {
 	std::cout << "Please Input your current XP " << "\n" << ">>";
 	std::cin >> currentXP;
@@ -24,7 +24,17 @@ void core::input()
 	system("CLS");
 };
 
-void core::calculation()
+void core::xpCalculation()
 {
 	std::cout << currentXP;
+};
+
+void profCalc::profInput()
+{
+
+};
+
+void profCalc::profCalculation()
+{
+
 };

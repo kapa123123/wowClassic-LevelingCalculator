@@ -5,7 +5,7 @@ int main()
 {
 	core core;
 
-	core.input();
+	core.xpInput();
 	
 	return 0;
 }
