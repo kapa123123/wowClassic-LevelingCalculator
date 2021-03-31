@@ -7,7 +7,7 @@ int main()
 	core core;
 	professions p;
 
-	core.xpInput();
+	p.pInput();
 	//std::cout << core.currentXP;
 	return 0;
 };

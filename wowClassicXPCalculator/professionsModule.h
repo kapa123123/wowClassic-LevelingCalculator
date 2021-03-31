@@ -11,4 +11,12 @@ public:
 	void pInput();
 	void pCalculation();
 
+
+	
+};
+
+class p_Herb
+{
+public:
+	void library();
 };
